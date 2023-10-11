@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T10:31:47.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="TL7ed7EGBSf0gkF3M834" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T10:33:02.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="c4FmtwC6SQdHMogUxYLl" version="22.0.4" type="github">
   <diagram name="Página-1" id="vgiorZPEa4Nm-zYZW0gM">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-1" value="INÍCIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R-_WPU4bVfA_2PBPiCtL-1" target="R-_WPU4bVfA_2PBPiCtL-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -14,10 +14,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-3" value="ESCREVER &quot;ESCREVA O 1º NÚMERO&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="260" width="194" height="60" as="geometry" />
+          <mxGeometry x="317" y="100" width="194" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-4" value="LER Y" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R-_WPU4bVfA_2PBPiCtL-3" target="R-_WPU4bVfA_2PBPiCtL-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-8" value="&quot;RESULTADO = &quot; X + Y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="760" width="139" height="60" as="geometry" />
+          <mxGeometry x="344.5" y="490" width="139" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R-_WPU4bVfA_2PBPiCtL-4" target="R-_WPU4bVfA_2PBPiCtL-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-10" value="ESCREVER &quot;ESCREVA O 2º NÚMERO&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="510" width="194" height="60" as="geometry" />
+          <mxGeometry x="317" y="300" width="194" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R-_WPU4bVfA_2PBPiCtL-10" target="R-_WPU4bVfA_2PBPiCtL-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -50,10 +50,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-14" value="FIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-17" value="LER X" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R-_WPU4bVfA_2PBPiCtL-17" target="R-_WPU4bVfA_2PBPiCtL-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
