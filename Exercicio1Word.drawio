@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T11:00:29.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vCLBe4bxgVTAcSTLit1r" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T11:33:18.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qP3_e7CbLAAK5XHPd0T0" version="22.0.4" type="github">
   <diagram name="Página-1" id="vgiorZPEa4Nm-zYZW0gM">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="413" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R-_WPU4bVfA_2PBPiCtL-8" value="&quot;RESULTADO = &quot; X + Y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R-_WPU4bVfA_2PBPiCtL-8" value="&quot;RESULTADO = &quot;&amp;nbsp; X + Y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344.5" y="490" width="139" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-_WPU4bVfA_2PBPiCtL-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R-_WPU4bVfA_2PBPiCtL-4" target="R-_WPU4bVfA_2PBPiCtL-8">
@@ -60,27 +60,6 @@
             <mxPoint x="390" y="430" as="sourcePoint" />
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="R-_WPU4bVfA_2PBPiCtL-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="70" width="123.37718310436958" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="R-_WPU4bVfA_2PBPiCtL-41" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=75;direction=west;" vertex="1" parent="R-_WPU4bVfA_2PBPiCtL-43">
-          <mxGeometry x="60" y="25" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="R-_WPU4bVfA_2PBPiCtL-42" value="" style="group" vertex="1" connectable="0" parent="R-_WPU4bVfA_2PBPiCtL-43">
-          <mxGeometry width="110" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="R-_WPU4bVfA_2PBPiCtL-34" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="R-_WPU4bVfA_2PBPiCtL-42">
-          <mxGeometry y="25" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="R-_WPU4bVfA_2PBPiCtL-35" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R-_WPU4bVfA_2PBPiCtL-42">
-          <mxGeometry x="20" y="25" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="R-_WPU4bVfA_2PBPiCtL-39" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R-_WPU4bVfA_2PBPiCtL-42">
-          <mxGeometry y="115" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="R-_WPU4bVfA_2PBPiCtL-40" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R-_WPU4bVfA_2PBPiCtL-42">
-          <mxGeometry x="70" y="115" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
