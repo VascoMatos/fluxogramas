@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T11:22:51.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-70tij5uXOf8z7S9s8D5" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T11:24:53.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xqH8uql4jG0pQ77-cSiY" version="22.0.4" type="github">
   <diagram name="Página-1" id="KPlZgDqJucnpiE4sb4UC">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -28,26 +28,14 @@
             <mxPoint x="260" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uG6PxS88TTNcRT3MnIop-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uG6PxS88TTNcRT3MnIop-5" target="uG6PxS88TTNcRT3MnIop-15">
+        <mxCell id="uG6PxS88TTNcRT3MnIop-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uG6PxS88TTNcRT3MnIop-5" target="uG6PxS88TTNcRT3MnIop-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="330" as="sourcePoint" />
             <mxPoint x="585" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uG6PxS88TTNcRT3MnIop-15" value="ESCREVER &quot;QUAL A IDADE DE CADA UM?&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="240" width="280" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="uG6PxS88TTNcRT3MnIop-16" value="X &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="450" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uG6PxS88TTNcRT3MnIop-17" value="LER Y" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uG6PxS88TTNcRT3MnIop-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uG6PxS88TTNcRT3MnIop-15" target="uG6PxS88TTNcRT3MnIop-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="410" as="sourcePoint" />
-            <mxPoint x="590" y="360" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="545" y="240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
