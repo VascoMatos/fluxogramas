@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T17:35:14.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="R8s_hxrLGJF-tjkeXY3B" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T17:39:00.592Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pifjLXEHZhkZe33qbbat" version="22.0.6" type="github">
   <diagram name="Página-1" id="ZL9FER-hk2I9ghn8vaq_">
     <mxGraphModel dx="1884" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="gd32NIDv6EsqENSUkfJi-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gd32NIDv6EsqENSUkfJi-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="440" as="sourcePoint" />
-            <mxPoint x="414" y="480" as="targetPoint" />
+            <mxPoint x="414" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gd32NIDv6EsqENSUkfJi-12" value="VERDADEIRO" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gd32NIDv6EsqENSUkfJi-11">
@@ -63,6 +63,27 @@
         </mxCell>
         <mxCell id="gd32NIDv6EsqENSUkfJi-15" value="FALSO" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gd32NIDv6EsqENSUkfJi-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gd32NIDv6EsqENSUkfJi-17" value="ESCREVA &quot;Qual a idade do seu filho?&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="570" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gd32NIDv6EsqENSUkfJi-18" value="LER IDADE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gd32NIDv6EsqENSUkfJi-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gd32NIDv6EsqENSUkfJi-17" target="gd32NIDv6EsqENSUkfJi-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gd32NIDv6EsqENSUkfJi-20" value="SOMA = SOMA + IDADE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="730" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gd32NIDv6EsqENSUkfJi-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gd32NIDv6EsqENSUkfJi-18" target="gd32NIDv6EsqENSUkfJi-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
