@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T17:48:13.469Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0AZC_c0EzTPcnCncj8I4" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T17:51:39.518Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8WO5d08sHjALzNH3iyWj" version="22.0.6" type="github">
   <diagram name="Página-1" id="ZL9FER-hk2I9ghn8vaq_">
     <mxGraphModel dx="1884" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,6 +123,36 @@
               <mxPoint x="240" y="960" />
               <mxPoint x="240" y="520" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gd32NIDv6EsqENSUkfJi-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gd32NIDv6EsqENSUkfJi-23" target="gd32NIDv6EsqENSUkfJi-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="580" as="sourcePoint" />
+            <mxPoint x="700" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gd32NIDv6EsqENSUkfJi-33" value="VERDADEIRO" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gd32NIDv6EsqENSUkfJi-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gd32NIDv6EsqENSUkfJi-35" value="ESCREVA &quot;A média das idades dos seus filhos é &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="650" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gd32NIDv6EsqENSUkfJi-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gd32NIDv6EsqENSUkfJi-35" target="gd32NIDv6EsqENSUkfJi-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="700" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gd32NIDv6EsqENSUkfJi-37" value="ESCREVA (SOMA / FILHOS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="750" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gd32NIDv6EsqENSUkfJi-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gd32NIDv6EsqENSUkfJi-37" target="gd32NIDv6EsqENSUkfJi-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
